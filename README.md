@@ -1,7 +1,3 @@
----
-
----
-
 # Circuito com Arduino
 
 ##  Descrição:
@@ -22,14 +18,14 @@
 <h3>
    Arduino: 
     <p>
-        <img alt="LEDs piscantes" src="ledspiscantes.png" style="border:0.5px solid #000">
+        <img alt="LEDs piscantes" src="ledspiscantes.png" style="border: 1px solid #000">
     </p>
 </h3>     
-
+<br>
 <h3>
     Esquema:
     <p>
-        <img alt="Visão Esquemática" src="esquema.png" style="border:0.5px solid #000">
+        <img alt="Visão Esquemática" src="esquema.png" style="border: 1px solid #000">
     </p>
 </h3>
 
