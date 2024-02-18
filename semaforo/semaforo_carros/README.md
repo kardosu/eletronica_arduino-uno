@@ -9,7 +9,7 @@
 <h3>
    Arduino: 
     <p>
-        <img alt="Semáforo de Carros - simulação" src="./semaforo-carros.png" style="border: 1px solid #000">
+        <img alt="Semáforo de Carros - simulação" src="./semaforo/semaforo-carros.png" style="border: 1px solid #000">
     </p>
 </h3>
 
